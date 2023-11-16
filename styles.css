@@ -1,0 +1,107 @@
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+header {
+	height: 100px;
+	background-color: cornflowerblue;
+	display: flex;
+	gap: 2rem;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem 10%;
+	box-sizing: border-box;
+	color: white;
+	& ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: inline-flex;
+		flex-direction: row-reverse;
+		flex-wrap: wrap-reverse;
+		gap: 2rem;
+		row-gap: 1rem;
+		& li {
+			text-align: end;
+		}
+		& a {
+			width: 100%;
+			color: white;
+			text-decoration: none;
+			/* text-wrap: balance; */
+		}
+	}
+}
+#page-wrapper {
+	width: 90%;
+	margin: 2rem auto;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+	gap: 2rem;
+}
+.card {
+	background-color: bisque;
+	padding: 2rem;
+	box-sizing: border-box;
+	border-radius: 1rem;
+	& img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		border-radius: 2rem;
+	}
+}
+.form-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+	width: 90%;
+	max-width: 600px;
+	margin: 2rem auto;
+	background-color: bisque;
+	padding: 2rem;
+	box-sizing: border-box;
+	border-radius: 1rem;
+	& input,
+	textarea {
+		resize: vertical;
+		width: 100%;
+		padding: 0.5rem 1rem;
+		box-sizing: border-box;
+		border-radius: 1rem;
+		border: 1px solid grey;
+	}
+	& button {
+		width: 50%;
+		max-width: 100px;
+		padding: 0.5rem;
+		box-sizing: border-box;
+		border-radius: 100px;
+		border: 1px solid grey;
+		&:hover {
+			background-color: cornflowerblue;
+			color: white;
+			cursor: pointer;
+			border: 1px solid white;
+		}
+	}
+}
+#message {
+	width: fit-content;
+	padding: 0 1rem;
+	margin: auto;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	background-color: green;
+	border-radius: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	#page-wrapper {
+		grid-template-columns: 1fr;
+	}
+}

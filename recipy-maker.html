@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<header>
+			<h1 class="logo">Receptai</h1>
+			<ul>
+				<li>
+					<a href="./recipy-maker.html">Pasidalinkite receptu</a>
+				</li>
+				<li>
+					<a href="./index.html">Pradžia</a>
+				</li>
+			</ul>
+		</header>
+
+		<div class="form-wrapper">
+			<h2>Pateikite receptą</h2>
+			<input type="text" id="title" placeholder="pavadinimas" />
+			<input type="text" id="description" placeholder="trumpas aprašymas" />
+			<input type="text" id="ingredients" placeholder="ingredientai (atskirti kableliais)" />
+			<textarea name="textarea" id="instructions" rows="8" cols="40" placeholder="paruošimo instrukcijos"></textarea>
+			<input type="text" id="recipe_img" placeholder="paveikslėlio url" />
+			<button type="submit" id="submit-btn">Įkelti</button>
+		</div>
+		<div id="message">pavyko</div>
+
+		<script src="./recipy-maker.js"></script>
+	</body>
+</html>
