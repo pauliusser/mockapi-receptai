@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Savaitgalio blynai",
+		"description": "Patys skaniausi! Visada kepu tik siuos ir visada gaunasi!",
+		"instructions": "Imame dubenį, jame išplakame kiaušinius su cukrumi. Tuomet į plakinį supilame pieną. Kitame dubenyje miltus sumaišome su cinamonu, kepimo milteliais ir druska. Pilame pieno ir kiaušinių masę į miltus ir maišome. Sviestą išlydome ir supilame į blynų tešlą. Išmaišome. Viskas. Jei namuose turite gerą, nelimpančia dangą keptuvę, papildomai aliejaus gali ir neprireikti. Įprastai aš įpilu lašą kitą aliejaus ir jo puikiausiai užtenka vienai keptuvei blynų iškepti. Pilame kelis mažesnius blynelius ir kepame. Kad neatšaltų, laikome iki 140C įkaitintoje orkaitėje. Valgome su kuo tik mėgstame – uogomis, jogurtu, grietine ir panašiai…",
+		"ingredients": "3 kiaušinių, 3 šaukštų cukraus, 200 g miltų, 1 kupino šaukštelio kepimo miltelių, 1 šaukštelio cinamono, 50 g sviesto, 100 ml pieno, aliejaus arba sviesto kepimui, druskos",
+		"recipe_img": "https://www.beatosvirtuve.lt/wp-content/uploads/2014/09/bv2011savaitgalioblynai57.jpg",
+		"id": "1"
+	},
+	{
+		"title": "Gardi uošvio burokėlių sriuba su džiovintais baravykais ir pupelėmis",
+		"description": "Labai gardi, tik taip visada verdu burokėlių sriubą. Šį receptą išmokau iš savo uošvio ir man jis yra pats skaniausias.",
+		"instructions": "Pupeles ir grybus užmerkti iš vakaro. Svogūnus ir česnaką smulkiai supjaustyti, morką sutarkuoti burokine tarka. Bulves supjaustyti kubeliais. Burokėlį sutarkuoti atskirai (irgi burokine tarka). Dideliame puode įkaitinti šiek tiek aliejaus ir apkepti svogūnus, morką bei česnaką iki šiek tiek suminkštės. Sudėti išmirkytas pupeles ir supilti išmirkytus ir išplautus grybus. Viską užpilti sultiniu ir virti, kol pupelės šiek tiek suminkštės. Jei norite ne vegetariško sriubos varianto, galite drauge dėti virti mėgiamos mėsytės ar šonkauliukų. Pupelėms šiek tiek suminkštėjus, sudėti supjaustytas bulves ir šiek tiek pavirti. Sudėti tarkuotus burokėlius ir dar šiek tiek pavirti (vietoje šviežių puikiai tinka virti burokėliai). Druską ir pipirus berti pagal skonį. Patiekti su grietine ir žalumynais. Skanaus!",
+		"ingredients": "3 litrai sultinio, 4 vienetai burokėlių, 5 vienetai bulvių, 1 vienetas svogūnų, 1 vienetas morkų, 100 gramų pupelių, 4 vienetai džiovintų baravykų, 2 skiltelės česnako, pagal skonį druskos, pagal skonį maltų juodųjų pipirų",
+		"recipe_img": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/41915.jpg",
+		"id": "2"
+	},
+	{
+		"title": "Purus varškės apkepas",
+		"description": "Įkvėpta Italijos virtuvės, bet puikiai tinkanti ir lietuviškam skoniui.",
+		"instructions": "Manų kruopas užpilti pienu ir pabrinkinti, kol jų prireiks (jeigu vietoje manų kruopų naudotumėte dribsnius, darykite lygiai tą patį). Sviestą ištrinti su cukrumi. Atskirti kiaušinių baltymus nuo trynių ir trynius sudėti į sviesto-cukraus mišinį. Gerai išmaišyti, sudėti varškę ir vėl maišyti iki vientisos masės. Išplakti kiaušinių baltymus taip, kad apvertus indą jie liktų vietoje (labai svarbu, kad indas, kuriame plaksite būtų sausas, kitaip baltymai gali nesustandėti). Manų kruopas su pienu supilti į varškės masę ir išmaišyti. Tada sudėti išplaktus baltymus ir lengvai pamaišyti - labai svarbu nepermaišyti, kad nesukristų. Kepimo formą patepti sviestu arba aliejumi ir pabarstyti džiūvėsėliais. Masę sukrėsti į indą ir kepti 220 C laipsnių orkaitėje, kol iškils. Tuomet sumažinti ugnį iki 200 C laipsnių. Iš viso kepti reikėtų apie 30 minučių. Skanaus!",
+		"ingredients": "500 gramų varškės, 4 vienetai kiaušinių, 80 mililitrų pieno, 4 šaukštai manų kruopų, 30 gramų sviesto, 2 šaukštai cukraus, šiek tiek džiūvėsėlių",
+		"recipe_img": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/16004.jpg",
+		"id": "3"
+	},
+	{
+		"title": "Sumuštinis",
+		"description": "paprastas užkandis",
+		"instructions": "ant duonos užtepame sviesto ir uždedame dešros. paruošta skanaus",
+		"ingredients": "duona, sviestas, dešra",
+		"recipe_img": "https://tv3.lt/Uploads/UArticles/leadPhotos/14/71/1a/32/14711a3278911df7c5bca0350aedd948.jpg",
+		"id": "5"
+	},
+	{
+		"title": "bulvių košė",
+		"description": "kaip padaryti bulvių košę",
+		"instructions": "išvirti bulves, sutrinti grūstuve, įdėti sviesto ir pieno pagal skonį",
+		"ingredients": "bulvės, sviestas, pienas",
+		"recipe_img": "https://g1.dcdn.lt/images/pix/960x600/emv57XvAkvQ/bulviu-kose-66534120.jpg",
+		"id": "6"
+	},
+	{
+		"title": "Šaltibarščiai",
+		"description": "vasariškas pateikalas atgaivinantis karštą dieną",
+		"instructions": "Išverdame kiaušinius, supjaustome visus ingredientus ir sudedame į didelį indą, į masę supilame kefyrą. Viską gerai išmaišome kol sriuba taps rožinės spalvos. Patiekti su virtomis bulvėmis",
+		"ingredients": "500g tarkuoti burokėliai, 5 kiaušiniai, 5 trumpavaisiai agurkai, svogūnų laiškai, krapai, 2l kefyro, druska",
+		"recipe_img": "https://g1.dcdn.lt/images/pix/960x600/XUH3ENA2M_A/receptas-90142171.jpg",
+		"id": "7"
+	}
+]
